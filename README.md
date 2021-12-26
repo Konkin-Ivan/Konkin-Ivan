@@ -1,4 +1,4 @@
-[![banner](https://raw.githubusercontent.com/Konkin-Ivan/Konkin-Ivan/main/files/banner.png)](https://konkin.info)
+[![banner](https://raw.githubusercontent.com/Konkin-Ivan/Konkin-Ivan/main/files/banner.gif)](https://konkin.info)
 
 # Привет, меня зовут Иван.
 Веб-разработчик: занимаюсь созданием тем оформления для сайтов услуг и интернет-магазинов. Специализируюсь на CMS [Drupal](https://drupal.org).
