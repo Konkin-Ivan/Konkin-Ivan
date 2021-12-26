@@ -1,8 +1,4 @@
-- 👋 Привет, я @Konkin-Ivan
-- 👀 С удовольствием изучаю Drupal, PHP, Symfony, Angular.
-- 🌱 Сейчас, углубляюсь в ООП.
-- 💞️ Мечтаю пройти собеседование в Z-Wolves (https://zwolves.com/).
-- 📫 https://t.me/konkin_ivan
+# Привет, меня зовут Иван.
 
 ## Технологии с которыми работаю:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
