@@ -4,7 +4,4 @@
 - 💞️ Мечтаю пройти собеседование в Z-Wolves (https://zwolves.com/).
 - 📫 https://t.me/konkin_ivan
 
-<!---
-Konkin-Ivan/Konkin-Ivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
