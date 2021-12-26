@@ -4,4 +4,4 @@
 - 💞️ Мечтаю пройти собеседование в Z-Wolves (https://zwolves.com/).
 - 📫 https://t.me/konkin_ivan
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+[https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>]
