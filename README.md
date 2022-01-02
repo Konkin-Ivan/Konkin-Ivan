@@ -29,7 +29,7 @@
 #### Symfony
 | Название | Описание |
 |---|---|
-|   |   |
+| [Symfony starter](https://github.com/Konkin-Ivan/symfony-starter-all)<br> (github) | <strong>Учебная задача</strong>. Назначение: быстрый старт нового проета. Сборка имеет конфигурацию doker контейнеров (php, nginx, mariadb, adminer, node), интегрирован less и gulp. |
 ### Инструменты
 #### Neovim config
 | Название | Описание |
