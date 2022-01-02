@@ -23,7 +23,7 @@
 | Название | Описание |
 |---|---|
 | [Swipe menu](https://github.com/Konkin-Ivan/swipe-menu-javascript)<br> (github) | <strong>Рабочая задача</strong>. Swipe menu на чистом JS, без использования jQuery или других библиотек. Работает взаимодействуя с DOM элементом ``` <input type="checkbox"> ```. Использовано на сайте [trankm.ru](https://trankm.ru) |
-| [Rome and Arabic calculator](https://github.com/Konkin-Ivan/swipe-menu-javascript)<br> (github) | <strong>Учебная задача</strong> - калькулятор, который принимает или арабские или римские числа, вычисляет арабские и римские по разным алгоритмам и возвращает результат или римское число или арабское. |
+| [Rome and Arabic calculator](https://github.com/Konkin-Ivan/roman-and-arabic-calc)<br> (github) | <strong>Учебная задача</strong> - калькулятор, который принимает или арабские или римские числа, вычисляет арабские и римские по разным алгоритмам и возвращает результат или римское число или арабское. |
 | [Durk/Light site colorscheme](https://github.com/Konkin-Ivan/swipe-menu-javascript)<br> (github) | <strong>Рабочая задача</strong>. Переключение темы оформления с дневной (светлой) на ночную (тёмную), <strong>без использования</strong> jQuery или других сторонних библиотек. Скрипт работает с DOM элементом ``` <input type="checkbox"> ``` и запоминает состояние флага в Window.localStorage - хранилище браузера. Использовано на сайте [konkin.info](https://konkin.info) |
 
 #### Symfony
