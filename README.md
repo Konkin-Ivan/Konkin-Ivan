@@ -11,6 +11,12 @@
 ![drupal](https://img.shields.io/badge/-Drupal-090909?style=for-the-badge&logo=drupal)
 ![symfony](https://img.shields.io/badge/-Symfony-090909?style=for-the-badge&logo=symfony)
 
+## Примеры работ
+### Вёрстка
+| Сайт  |  Описание |
+|---|---|
+| [trankm.ru](https://trankm.ru)<br>[konkin.info](https://konkin.info)  | Развернут на [Drupal](https://drupal.org), тема оформления собственная ([ознакомиться](https://github.com/Konkin-Ivan/konkin_info_theme) на github). Тема использует: (less, gulp, БЭМ). Файловая иерархия построена по принципу "SMACSS" [Scalable and Modular Architecture for CSS](https://www.drupal.org/docs/develop/standards/css/css-file-organization-for-drupal-9).<br> <strong>Не использую</strong> bootstrap или другие фреймворки. Тема оформления имеет минимальный набор файлов и стилей, достаточных для вёрстки конкретного дизайна, ничего лишнего. |
+
 ### Я здесь:
 [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/konkin_ivan)
 [![vk](https://img.shields.io/badge/-ВКонтакте-090909?style=for-the-badge&logo=vk)](https://vk.com/konkin_ivan)
