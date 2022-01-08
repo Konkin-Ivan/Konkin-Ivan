@@ -14,11 +14,13 @@
 ![symfony](https://img.shields.io/badge/-Symfony-090909?style=for-the-badge&logo=symfony)
 
 ## Примеры работ
-### Вёрстка
+### Проекты
 | Сайт  |  Описание |
 |---|---|
 | [trankm.ru](https://trankm.ru)<br>[konkin.info](https://konkin.info)<br>[fucke-seo.ru](https://fucke-seo.ru)<br>[drupal-theme.ru](https://drupal-theme.ru)  | Развернут на [Drupal](https://drupal.org), тема оформления собственная ([ознакомиться](https://github.com/Konkin-Ivan/konkin_info_theme) на github). Тема использует: (less, gulp, БЭМ). Файловая иерархия построена по принципу "SMACSS" [Scalable and Modular Architecture for CSS](https://www.drupal.org/docs/develop/standards/css/css-file-organization-for-drupal-9).<br> <strong>Не использую</strong> bootstrap или другие фреймворки. Тема оформления имеет минимальный набор файлов и стилей, достаточных для вёрстки конкретного дизайна, ничего лишнего. |
 | [florist.ru](https://florist.ru) | Верстка e-mail рассылки для сайта доставки цветов [https://github.com/Konkin-Ivan/layout-of-mailings/tree/main/florist.ru](https://github.com/Konkin-Ivan/layout-of-mailings/tree/main/florist.ru). |
+| [seosly](https://github.com/Konkin-Ivan/konkin_info_theme) theme | Фундамент тем оформления для Drupal 8/9. Чистый, легковестный фреймворк ориентированный на высокую производительность. Оптимизирован для поисковых систем, пострен по принципу "SMACSS" [Scalable and Modular Architecture for CSS](https://www.drupal.org/docs/develop/standards/css/css-file-organization-for-drupal-9). |
+
 ### Код
 #### JavaScript
 | Название | Описание |
