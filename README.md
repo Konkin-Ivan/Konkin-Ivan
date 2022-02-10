@@ -23,6 +23,7 @@
 
 ### Код
 #### JavaScript
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 | Название | Описание |
 |---|---|
 | [Swipe menu](https://github.com/Konkin-Ivan/swipe-menu-javascript)<br> (github) | <strong>Рабочая задача</strong>. Swipe menu на чистом JS, без использования jQuery или других библиотек. Работает взаимодействуя с DOM элементом ``` <input type="checkbox"> ```. Использовано на сайте [trankm.ru](https://trankm.ru) |
