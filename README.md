@@ -11,6 +11,7 @@
 ![gulp](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
 ![html](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![drupal](https://img.shields.io/badge/-Drupal-090909?style=for-the-badge&logo=drupal)
+![php](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
 ![symfony](https://img.shields.io/badge/-Symfony-090909?style=for-the-badge&logo=symfony)
 
 ## Примеры работ
@@ -31,7 +32,7 @@
 | [FuzzBuzz](https://github.com/Konkin-Ivan/Fuzz-Buzz)<br> (github) | <strong>Учебная задача</strong> [demo codepen](https://codepen.io/iwan-konkin/pen/vYejZme). Выводит на экран числа от 1 до 100. При этом вместо чисел, кратных трем, программа должна выводить слово «Fizz», а вместо чисел, кратных пяти — слово «Buzz». Если число кратно и 3, и 5, то программа должна выводить слово «FizzBuzz». |
 | [JS-arrays](https://github.com/Konkin-Ivan/js-arrays)<br> (github) | <strong>Тренинг</strong> В этом репозитории находится сборник задач, направленных на изучение массивов.<br/> <strong>Текущий статус:</strong> одномерные массивы - <strong>4</strong>/75; многомерные массивы - <strong>0</strong>/42. |
 
-#### Symfony
+#### ![symfony](https://img.shields.io/badge/-Symfony-090909?style=for-the-badge&logo=symfony)
 | Название | Описание |
 |---|---|
 | [Symfony starter](https://github.com/Konkin-Ivan/symfony-starter-all)<br> (github) | <strong>Учебная задача</strong>. Назначение: быстрый старт нового проета. Сборка имеет конфигурацию doker контейнеров (php, nginx, mariadb, adminer, node), интегрирован less и gulp. |
