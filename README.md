@@ -22,8 +22,7 @@
 | [seosly](https://github.com/Konkin-Ivan/seosly) theme | Фундамент тем оформления для Drupal 8/9. Чистый, легковестный фреймворк ориентированный на высокую производительность. Оптимизирован для поисковых систем, пострен по принципу "SMACSS" [Scalable and Modular Architecture for CSS](https://www.drupal.org/docs/develop/standards/css/css-file-organization-for-drupal-9). |
 
 ### Код
-#### JavaScript
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+#### ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 | Название | Описание |
 |---|---|
 | [Swipe menu](https://github.com/Konkin-Ivan/swipe-menu-javascript)<br> (github) | <strong>Рабочая задача</strong>. Swipe menu на чистом JS, без использования jQuery или других библиотек. Работает взаимодействуя с DOM элементом ``` <input type="checkbox"> ```. Использовано на сайте [trankm.ru](https://trankm.ru) |
