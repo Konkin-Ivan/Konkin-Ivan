@@ -1,7 +1,8 @@
 [![banner](https://raw.githubusercontent.com/Konkin-Ivan/Konkin-Ivan/main/files/banner.gif)](https://konkin.info)
 
 # Привет, меня зовут Иван.
-Веб-разработчик: занимаюсь созданием тем оформления для сайтов услуг и интернет-магазинов. Специализируюсь на CMS [Drupal](https://drupal.org).
+Моя позиция по жизни: ничего не знаю, ничего не умею.
+Активно изучаю программирование вне привязки к конкретному языку или технологии.
 
 ## Технологии с которыми работаю:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
