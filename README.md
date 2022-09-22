@@ -1,5 +1,6 @@
+<!---
 [![banner](https://raw.githubusercontent.com/Konkin-Ivan/Konkin-Ivan/main/files/banner.gif)](https://konkin.info)
-
+-->
 # Привет, меня зовут Иван.
 Моя позиция по жизни: ничего не знаю, ничего не умею.
 Активно изучаю программирование вне привязки к конкретному языку или технологии.
