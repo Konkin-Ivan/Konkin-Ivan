@@ -13,6 +13,7 @@
 ![php](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
 ![symfony](https://img.shields.io/badge/-Symfony-090909?style=for-the-badge&logo=symfony)
 
+<--
 ## Примеры работ
 ### Проекты
 | Сайт  |  Описание |
@@ -40,6 +41,7 @@
 | Название | Описание |
 |---|---|
 | [My NEOVIM config](https://github.com/Konkin-Ivan/drupal-ide-nvim-config)<br> (github) | <strong>Рабочая задача</strong>. Файловая иерархия конфигурационных файлов построена по модульному принципу. За основу были взяты рекомендации из документации [Drupal Configuring Vim](https://www.drupal.org/docs/develop/development-tools/configuring-vim). <strong>Neovim данной конфигурации умеет:</strong> корректно определять файлы Drupal/Symfony (*.info, *.yml, *.module, *.install), [омни-автозавершение](https://www.koumbit.org/en/content/using-exuberant-ctags-drupal) обеспечивает интеллектуальное автозаполнение для программ, использование пакета [snippetsEmu](https://www.vim.org/scripts/script.php?script_id=1318) для Drupal. |
+-->
 
 ### Я здесь:
 [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/konkin_ivan)
