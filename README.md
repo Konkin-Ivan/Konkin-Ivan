@@ -10,6 +10,7 @@
 <!-- ![html](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5) -->
 ![php7.0+](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
 ![laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)
+![Yii2](https://img.shields.io/badge/-Yii2-090909?style=for-the-badge&logo=yii2)
 ![Symfony](https://img.shields.io/badge/-Symfony-090909?style=for-the-badge&logo=symfony)
 
 ## Избранное
@@ -111,3 +112,5 @@ base_url: string
 [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/konkin_ivan)
 [![vk](https://img.shields.io/badge/-ВКонтакте-090909?style=for-the-badge&logo=vk)](https://vk.com/konkin_ivan)
 [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-090909?style=for-the-badge&logo=stackoverflow)](https://ru.stackoverflow.com/users/272147/%d0%98%d0%b2%d0%b0%d0%bd-%d0%9a%d0%be%d0%bd%d0%ba%d0%b8%d0%bd)
+
+Мой блог: [Fuzz-Buzz JS](https://program-mister.ru)
