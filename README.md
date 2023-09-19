@@ -10,7 +10,7 @@
 <!-- ![html](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5) -->
 ![php7.0+](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
 ![laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)
-![Yii2](https://img.shields.io/badge/-Yii2-090909?style=for-the-badge&logo=yii2)
+![Yii](https://img.shields.io/badge/-Yii-090909?style=for-the-badge&logo=yii)
 ![Symfony](https://img.shields.io/badge/-Symfony-090909?style=for-the-badge&logo=symfony)
 
 ## Избранное
