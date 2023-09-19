@@ -113,4 +113,4 @@ base_url: string
 [![vk](https://img.shields.io/badge/-ВКонтакте-090909?style=for-the-badge&logo=vk)](https://vk.com/konkin_ivan)
 [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-090909?style=for-the-badge&logo=stackoverflow)](https://ru.stackoverflow.com/users/272147/%d0%98%d0%b2%d0%b0%d0%bd-%d0%9a%d0%be%d0%bd%d0%ba%d0%b8%d0%bd)
 
-Мой блог: [Fuzz-Buzz JS](https://program-mister.ru)
+Мой блог: [program-mister.ru](https://program-mister.ru)
