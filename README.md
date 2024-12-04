@@ -1,6 +1,6 @@
 # Backend Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет,+меня+зовут+Иван.;Рад+знакомству!;Люблю+программировать+в+функциональном+стиле.;Добро+пожаловать+в+мой+репозиторий.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет,+меня+зовут+Иван,+рад+знакомству!;Добро+пожаловать+в+мой+мир.)](https://git.io/typing-svg)
 
 ### 💻 Технологии:
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) -->
