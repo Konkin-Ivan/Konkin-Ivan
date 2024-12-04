@@ -15,6 +15,7 @@
 ![Symfony](https://img.shields.io/badge/-Symfony-090909?style=for-the-badge&logo=symfony)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-090909?style=for-the-badge&logo=mariadb)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq)
 
 #### DevOps
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx)
