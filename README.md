@@ -23,6 +23,8 @@
 ![Varnish](https://img.shields.io/badge/-Varnish-090909?style=for-the-badge&logo=varnish)
 
 #### Linux
+![Archlinux](https://img.shields.io/badge/-Archlinux-090909?style=for-the-badge&logo=archlinix)
+![Altlinux](https://img.shields.io/badge/-Altlinux-090909?style=for-the-badge&logo=altlinux)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-090909?style=for-the-badge&logo=hyprland)
 
 ---
