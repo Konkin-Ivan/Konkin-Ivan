@@ -1,7 +1,5 @@
 # Backend Developer
 
----
-
 ### 💻 Технологии:
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) -->
 <!-- ![css](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3) -->
